@@ -1,2 +1,3 @@
-# stack-simulation
-A C-based stack simulation demonstrating core operations like push, pop, peek, and internal memory display. Ideal for students learning stack behavior and data structures.
+This repository contains a complete, interactive simulation of a Stack Data Structure implemented using arrays in the C programming language. The program provides a clear, educational, and step-by-step demonstration of stack operations such as push, pop, peek, and display. It also shows detailed internal states after each operation, helping students and beginners deeply understand how stacks behave in memory.
+
+This project is ideal for academic submissions, data structure labs, self-learning, teaching demonstrations, debugging practice, and as a base template for implementing more advanced stack-based algorithms in C.
